@@ -1,0 +1,46 @@
+
+body{
+    margin: 0%;
+    padding: 0;
+}
+.container{
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: (-50%,50%);
+}
+.card{
+   background-color: rgb(245, 178, 7);
+    padding: 60px 40px 50px 40px;
+    background: rgb(red, green, blue);
+    border-radius: 10px;
+}
+fieldset{
+    background-image:url("D:\photos\IMG_20210509_180700.jpg");
+    background-position: 5px;
+    background-origin: content-box;
+}
+h1{
+    font-family: Calibri;
+    text-align: center;
+    font-style: oblique;
+    color: rgb(41, 8, 253);
+}
+input{
+    background-color: white;
+    font-family:  Calibri;
+    text-align: center;
+    color: black;
+}
+div{
+    text-align: center;
+}
+button{
+    background-color: green;
+    text-align: center;
+}
+li{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
